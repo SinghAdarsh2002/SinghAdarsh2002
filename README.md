@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SinghAdarsh2002
-- 👀 I’m interested in ...web developing
+- 👀 I’m interested in ...development
 - 🌱 I’m currently learning ...wed development
 - 💞️ I’m looking to collaborate on ...git and github
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...via mail singh06vikash@gmail.com
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...
 
 <!---
